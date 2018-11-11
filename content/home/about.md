@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Ecological Modeling and Forecasting",
+    "Data Assimilation",
+    "Global Change Biology",
+    "Paleoecology"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Plant Ecology and Nature Conservation"
+  institution = "Potsdam University, DE"
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc in Computational Science and Engineering"
+  institution = "Istanbul Technical University, TR"
+
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Molecular Biology and Genetics"
+  institution = "Istanbul Technical University, TR"
+
  
 +++
 
-# Biography
+# Current Research
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My current research focuses on improving ecosystem models through data assimilation. I am interested in constraining and validating models using a diversity of data types in a Bayesian framework. For this purpose I am using and contributing to development of [PEcAn](http://pecanproject.github.io/) (Predictive Ecosystem Analyzer) which is an ecological bioinformatics toolbox for improving communication between models and data.
